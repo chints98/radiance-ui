@@ -75,7 +75,7 @@
     "@storybook/core": "~5.3.9",
     "@storybook/react": "~5.3.9",
     "@storybook/source-loader": "^5.3.9",
-    "@svgr/cli": "^4.3.3",
+    "@svgr/cli": "^5.4.0",
     "@svgr/rollup": "^4.0.2",
     "@svgr/webpack": "^4.0.2",
     "@types/enzyme": "^3.10.3",
